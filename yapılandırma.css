@@ -1,0 +1,50 @@
+#special{
+
+
+    width: 29%; background-color: #7EE5DA ;  float: left; margin-left: 5%; height: 79px; margin-right: 5%; margin-top: 5px;
+}
+
+#search{
+
+    width: 100%;
+}
+#help{
+
+     background-color: #70CCC2; width: 29%; height: 79px; margin: 0%; padding: 0%; 
+     margin: 0 auto;margin: 5px auto;
+     
+     margin-left: auto; margin-right: auto;
+     
+
+      position: absolute;
+
+     left: 530px;
+     top: 178px;
+  
+            text-align: center;    
+            text-decoration: underline; 
+}
+
+
+#getgoogle{
+
+ background-color: #62B3AA; width: 29%;
+ float: right;
+ margin-right: 5%;
+background-color: #70CCC2; height: 79px;
+margin: 0 auto;
+
+margin: 5px auto;
+     
+     margin-left: auto; margin-right: auto;
+     
+
+padding: auto;
+text-align: center;
+position: absolute;
+
+     left: 975px;
+     top: 178px;
+     
+}
+
